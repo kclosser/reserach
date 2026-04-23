@@ -1,2 +1,2 @@
 # reserach_lab
-Research Lab Website
+Future home of Kristi Closser's research lab website current site: https://kclosser.wixsite.com/research
